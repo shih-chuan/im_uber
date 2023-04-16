@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Duane Haag",
+    "email": "Lenna_Zieme22@gmail.com",
+    "role": "rider",
+    "location": { "coordinates": [29.68338, 85.11759], "type": "Point" },
+    "_id": "6394a46207e7fb92d8d77efb"
+  },
+  {
+    "name": "Paulette Murazik",
+    "email": "Geovany_Mayert17@hotmail.com",
+    "role": "rider",
+    "location": { "coordinates": [26.91683, 88.39487], "type": "Point" },
+    "_id": "6394a46207e7fb92d8d77efc"
+  },
+  {
+    "name": "Chester Kirlin",
+    "email": "Valentine.Thompson80@gmail.com",
+    "role": "rider",
+    "location": { "coordinates": [27.6219, 85.12609], "type": "Point" },
+    "_id": "6394a46207e7fb92d8d77efd"
+  },
+  {
+    "name": "Maggie Funk Jr.",
+    "email": "Audra_Wehner@hotmail.com",
+    "role": "rider",
+    "location": { "coordinates": [26.41569, 86.79778], "type": "Point" },
+    "_id": "6394a46207e7fb92d8d77efe"
+  }
+]
